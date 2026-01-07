@@ -16,7 +16,7 @@ Evalúo ingresos, satisfacción de clientes, costos de envío y distribución ge
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/alura-store-analysis.git
+git clone https://github.com/AlexAAC9395/ChallengeAluraStore_AlexArroyo.git
 
 # Instalar dependencias
 pip install -r requirements.txt
